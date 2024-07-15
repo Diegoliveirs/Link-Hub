@@ -1,16 +1,22 @@
-# Link-Hub
+## Mudanças Recentes
 
-Link-Hub é uma página pessoal para centralizar links para minhas redes sociais e outros perfis online.
+### HTML
 
-![Screenshot](./assets/screenshot.png)
+- Adição de novos elementos HTML, como o switch para alternar entre temas claro e escuro e links adicionais para redes sociais.
 
-## Tecnologias Utilizadas
+### CSS
 
-- HTML5
-- CSS3 (com uso da fonte Inter via Google Fonts)
-- Ionicons para ícones de redes sociais
+- Atualização das variáveis CSS para definir cores, imagens de fundo e estilos de elementos conforme o tema escolhido.
 
-## Como Usar
+### JavaScript
+
+- A função `toggleMode()` foi atualizada para alternar entre os temas claro e escuro, e para trocar dinamicamente a imagem do perfil dependendo do tema escolhido.
+
+### Screenshot
+
+![Screenshot](./assets/screenshot-1.png)
+
+### Como Usar
 
 1. Clone este repositório:
    ```bash
